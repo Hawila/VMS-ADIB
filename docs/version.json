@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.1",
+  "versionCode": 4,
+  "versionName": "1.1.2",
   "apkUrl": "https://github.com/Hawila/VMS-ADIB/releases/download/1.0.1/Adib-VMS.apk",
-  "releaseNotes": "• fixed reversed nfc value."
+  "releaseNotes": "• Added Staff Session To today total Session."
 }
