@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 3,
+  "versionName": "1.1.1",
   "apkUrl": "https://github.com/Hawila/VMS-ADIB/releases/download/1.0.1/Adib-VMS.apk",
-  "releaseNotes": "• Added Staff NFC tap .\n• feature 2.\n• fix 1.\n• fix 2."
+  "releaseNotes": "• fixed reversed nfc value."
 }
